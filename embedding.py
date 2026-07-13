@@ -12,7 +12,7 @@ BASE_DIR = Path(__file__).resolve().parent
 # 1. pdf 를 document 객체로 변환
 documents = []
 
-for pdf_file in BASE_DIR.glob("*.pdf"): # 폴더에 있는 pdf 파일들을 반환
+for pdf_file in BASE_DIR.glob("ghibli.pdf"): # 폴더에 있는 pdf 파일들을 반환
     loader = PyPDFLoader(str(pdf_file))
     documents.extend(loader.load())
 
@@ -31,11 +31,11 @@ print("청크 갯수:", total_chunks)
 # 3. 임베딩 작업
 embedding = HuggingFaceEmbeddings(
     model_name="BAAI/bge-m3",
-    model_kwargs={'device': 'cuda'} 
+    # model_kwargs={'device': 'cuda'} 
 )
 
 # 4. 크로마 DB 생성 및 tqdm 진행률 적용
-DB_PATH = BASE_DIR / "chroma_db"
+DB_PATH = BASE_DIR / "chroma_db_ghibli"
 
 print("\n🚀 Vector DB 인덱싱 및 저장 시작...")
 

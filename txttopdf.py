@@ -9,8 +9,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 # [설정]
-TXT_FOLDER = "./squid_game_data"  # 수집된 텍스트 파일들이 있는 폴더
-OUTPUT_PDF_NAME = "Merged_Squid_Game_Wiki.pdf"  # 새로 만들 PDF 이름
+TXT_FOLDER = "./ghibli_data"  # 수집된 텍스트 파일들이 있는 폴더
+OUTPUT_PDF_NAME = "ghibli.pdf"  # 새로 만들 PDF 이름
 
 # ★ 중요: 한글이나 특수문자가 깨지지 않도록 시스템 기본 폰트 등록 (Windows 기준 맑은고딕)
 # Mac 사용자라면 '/System/Library/Fonts/Supplemental/AppleGothic.ttf' 등으로 변경하세요.

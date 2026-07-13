@@ -1,0 +1,36 @@
+Title: Arms Merchant
+URL: https://ghibli.fandom.com//wiki/Arms_Merchant
+--------------------------------------------------
+Arms Merchant
+
+
+
+
+Mito sees the Aldis Lamp lights from the Dorok Air Monitor and recognizes it is from Nausicaä
+
+
+Equipment
+
+Type
+signal device
+
+
+
+
+An Aldis Lamp is a light that is used to signal between ships using a code based on "lamp on" and "lamp off" of various lengths of time and frequencies. While there may be a common signal code among similar states, as with the Periphery and Torumekia, for example, each military presumably has its own secret codes.
+The Dorok Air Monitor signals to the Valley Gunship with an Aldis Lamp [1].
+Worm Handlers on the Worm Handler Brig use an Aldis Lamp [2] to signal a pair of Dorok Air Monitors.
+Torumekian airships use an Aldis Lamp [3] to signal to other Torumekian airships.
+
+
+References[]
+
+↑ DE1a pg 163
+
+↑ DE1 pg 234
+
+↑ DE1 pg 283
+
+
+
+a See Page Conversions Between Editions to convert Deluxe Edition volume 1 (DE1) to other editions

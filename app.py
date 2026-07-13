@@ -1,7 +1,7 @@
 from rag import ask
 
 print("="*50)
-print("오징어게임 전문가 챗봇")
+print("지브리 가이드")
 print("="*50)
 
 while True:

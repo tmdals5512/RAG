@@ -5,9 +5,11 @@ import os
 import re
 
 # 설정
-BASE_URL = "https://squid-game.fandom.com"
+# BASE_URL = "https://squid-game.fandom.com"
+# BASE_URL = "https://howlscastle.fandom.com/"
+BASE_URL = "https://ghibli.fandom.com/"
 START_URL = f"{BASE_URL}/wiki/Special:AllPages"
-SAVE_FOLDER = "squid_game_data2"
+SAVE_FOLDER = "ghibli_data"
 os.makedirs(SAVE_FOLDER, exist_ok=True)
 
 def clean_filename(title):

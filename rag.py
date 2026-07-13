@@ -22,7 +22,7 @@ embedding = HuggingFaceEmbeddings(
 BASE_DIR = Path(__file__).resolve().parent
 
 # chroma_db 폴더
-DB_PATH = BASE_DIR / "chroma_db"
+DB_PATH = BASE_DIR / "chroma_db_ghibli"
 
 db = Chroma(
     embedding_function = embedding,
@@ -40,7 +40,9 @@ from langchain_core.output_parsers import StrOutputParser
 
 prompt = ChatPromptTemplate.from_template(
 """
-당신은 넷플릭스 드라마 오징어게임에 관한 정보를 알려주는 AI입니다.
+당신은 지브리 작품을 알려주는 AI입니다.
+
+문서에 존재하지 않은 내용은 모른다고 답해주세요.
 
 아래 문서를 참고하여 답변하세요.
 

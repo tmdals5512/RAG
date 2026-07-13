@@ -21,7 +21,7 @@ Squid Games33rd Squid GameTug of War
 
 
 Known members
-Do Jeong-soo †Jung Min-tae †Player 096 †Player 453 †Player 021 †Player 413 †Player 130 †Park Tae-jun †Player 043 †Player 028 or Na Jo-eun †
+Do Jeong-soo †Jung Min-tae †Player 096 †Player 453 †Player 021 †Player 413 †Player 130 †Park Tae-jun †Player 043 †Player 028 †
 
 
 Status
@@ -39,7 +39,7 @@ June 29, 2020
 Appearances
 
 Portrayed by
-Lee Sang-hee (Do Jeong-soo)Lim Ki-hong (Jung Min-tae)Jung Woo-hyuk (096)Yang Mal-bok (453)Moon Byung-joo (021)Roh In-cheol (130)Chun Kyung-chae (Park Tae-jun)Yoo Hee-sang (Na Jo-eun)Jang Young-taek (413)Unknown extra (043)
+Lee Sang-hee (Do Jeong-soo)Lim Ki-hong (Jung Min-tae)Jung Woo-hyuk (096)Yang Mal-bok (453)Moon Byung-joo (021)Roh In-cheol (130)Chun Kyung-chae (Park Tae-jun)Unknown extra (028)Jang Young-taek (413)Unknown extra (043)
 
 
 
@@ -81,7 +81,7 @@ Player 096 †
 Player 130 †
 Player 229 †
 Player 413 †
-Player 028 or Na Jo-eun †
+Player 028 †
 Player 043 †
 Voting[]
 
@@ -126,11 +126,6 @@ Player 028
 ?
 
 
-Na Jo-eun
-
-O
-
-
 Player 130
 
 O
@@ -138,7 +133,7 @@ O
 
 Park Tae-jun
 
-X
+?
 
 
 Playe 043
@@ -259,7 +254,7 @@ SAFE
 DIED
 
 
-Player 028 or Na Jo-eun
+Player 028
 
 SAFE
 
@@ -311,7 +306,7 @@ SAFE
 DIED
 
 Kill count[]
-Confirmed killsAttempted killsIndirect killsPossible kills
+Confirmed killsAttempted killsIndirect kills
 
 
 Character
@@ -319,6 +314,16 @@ Character
 Information
 
 Image/GIF
+
+
+"Stick to the Team"Special Game
+
+
+Unknown player
+
+Stomped to death by Player 028.
+
+
 
 
 "A Fair World"Tug of War
@@ -369,28 +374,28 @@ Image/GIF
 
 Player 085
 
-Indirectly caused his death after winning Marbles against him.
+Indirectly caused his death after Player 453 won Marbles against him.
 
 
 
 
 Player 413
 
-Indirectly caused his death after winning Marbles against him.
+Indirectly caused his death after Do Jeong-soo won Marbles against him.
 
 
 
 
 Player 028
 
-Indirectly caused his death after winning Marbles against him.
+Indirectly caused his death after Jung Min-tae won Marbles against him.
 
 
 
 
 Player 276
 
-Indirectly caused his death after winning Marbles against him.
+Indirectly caused his death after Player 021 won Marbles against him.
 
 
 
@@ -400,46 +405,7 @@ Indirectly caused his death after winning Marbles against him.
 
 Player 021
 
-Accidentally caused by suggesting jumping onto the wrong glass tile, leading to him falling to his death.
-
-
-
-
-
-Character
-
-Information
-
-Image/GIF
-
-
-"Stick to the Team"Special Game
-
-
-Unknown player
-
-Struck on the head using a double hammerfist strike, dragged by the hair and stomped to death; possible if Na Jo-eun was canonically on this team.
-
-
-
-
-Choi Woo-seong(Player 006)
-
-Thrown down the stairs and beaten to death; possible if Na Jo-eun was canonically on this team.
-
-
-
-
-Player 409
-
-Grappled with, then beaten to death; possible if Na Jo-eun was canonically on this team.
-
-
-
-
-Unknown player
-
-Stomped to death; possible if Player 028 was canonically on this team.
+Accidentally caused by Player 453 suggesting jumping onto the wrong glass tile, leading to him falling to his death.
 
 
 
@@ -452,7 +418,7 @@ Player 096 - Picked the wrong glass tile during Glass Stepping Stones.
 Player 130 - Lost to Player 062 during Marbles.
 Player 229 - Lost to Player 096 during Marbles.
 Player 413 - Lost to Do Jeong-soo during Marbles.
-Player 028 or Na Jo-eun - Lost to Jung Min-tae during Marbles.
+Player 028 - Lost to Jung Min-tae during Marbles.
 Player 043 - Lost to Player 407 during Marbles.
 Trivia[]
 In a major continuity error, none of the players in the team except for Player 453 appear in Tug of War. They likely replaced Team Eight for the fourth game, as we can see a different 453 in Team Eight in Tug of War.
