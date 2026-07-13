@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 .venv/
-ghibli_data
-howl_data
-squid_game_data
+ghibli_data/
+howl_data/
+squid_game_data/
