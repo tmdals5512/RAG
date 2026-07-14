@@ -68,7 +68,18 @@ store = {}
 def get_session_history(session_id: str) -> ChatMessageHistory:
     if session_id not in store:
         store[session_id] = ChatMessageHistory()
-    return store[session_id]
+    
+    # 해당 세션의 현재 대화 기록을 가져옵니다.
+    history = store[session_id]
+    
+    # 5번의 대화 쌍 = (User 질문 5개 + AI 답변 5개) = 총 10개 메시지
+    # 메시지가 10개를 초과하면 가장 오래된 메시지부터 잘라냅니다.
+    max_messages = 10 
+    if len(history.messages) > max_messages:
+        # 최근 10개의 메시지만 남기고 슬라이싱하여 덮어씁니다.
+        history.messages = history.messages[-max_messages:]
+        
+    return history
 
 # 대화 이력을 자동으로 관리해주는 래퍼(Wrapper) 체인 생성
 chain_with_history = RunnableWithMessageHistory(
