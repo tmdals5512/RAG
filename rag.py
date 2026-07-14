@@ -31,7 +31,7 @@ db = Chroma(
 
 # 검색기
 retriever = db.as_retriever(
-    search_kwargs={"k": 3}
+    search_kwargs={"k": 20}
 )
 
 # 프롬프트 만들고 llm 연결 준비

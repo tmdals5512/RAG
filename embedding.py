@@ -42,7 +42,8 @@ print("\n🚀 Vector DB 인덱싱 및 저장 시작...")
 # ① 빈 Chroma DB 객체를 먼저 선언 (경로와 임베딩 모델 연결)
 db = Chroma(
     persist_directory=str(DB_PATH),
-    embedding_function=embedding
+    embedding_function=embedding,
+    
 )
 
 # ② 100개씩 쪼개서 넣기 위한 배치 사이즈 설정
