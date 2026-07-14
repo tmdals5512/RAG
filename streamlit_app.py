@@ -4,7 +4,8 @@ from rag import ask
 st.set_page_config(
     page_title="지브리 챗봇",
     page_icon="🤖",
-    layout="wide"   
+    layout="centered", 
+    initial_sidebar_state="collapsed"
 )
 
 st.title("지브리 챗봇 🎬")
